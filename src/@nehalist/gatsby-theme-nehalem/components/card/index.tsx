@@ -43,9 +43,6 @@ export const Card: FunctionComponent<CardProps> = ({
           {meta &&
           <CardMeta>
             {meta.tag && <>{meta.tag}</>}
-            {meta.time &&
-            <time dateTime={meta.time}>{meta.timePretty}</time>
-            }
           </CardMeta>
           }
           {title &&

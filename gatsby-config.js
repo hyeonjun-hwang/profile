@@ -1,18 +1,18 @@
 module.exports = {
   siteMetadata: {
-    title: `HyeonJun Hwang's Blog`,
-    siteUrl: `https://perpling.com`,
+    title: `HyeonJun Hwang's Portfolio`,
+    siteUrl: `https://profile.perpling.com`,
     description: `안녕하세요. %TOPICS% 입니다.`,
     topics: [
       `황현준`,
       `HyeonJun Hwang`,
       `서비스 기획자`,
-      `퍼포먼스 플래닝`,
-      `퍼플링`
+      `포트폴리오`,
+      `기획 포트폴리오`
     ],
     menu: [
       {
-        name: 'Home',
+        name: 'Portfolio',
         path: '/'
       },
       {
@@ -33,8 +33,7 @@ module.exports = {
     search: true,
     author: {
       name: `황현준`,
-      description: `안녕하세요 블로그 <a href="/about" rel="noopener" target="_self"><strong>perpling</strong></a>을 운영하는 <strong>황현준</strong>입니다.
-      일상, 기획, 비즈니스, 책 등을 통해 얻은 다양한 경험을 써내려 갑니다.`
+      description: `안녕하세요 IT 서비스 기획자 <strong>황현준</strong>입니다. 서비스 기획자로서 다양한 문제 해결 과정을 포트폴리오에 담았습니다.`
       ,
       social: {
         facebook: `https://www.facebook.com/hyeonjun.hwang.3`,
@@ -89,7 +88,7 @@ module.exports = {
           background_color: `#3a7bd5`,
           theme_color: `#3a7bd5`,
           display: `minimal-ui`,
-          icon: `${__dirname}/content/assets/images/favicon_hj.png`
+          icon: `${__dirname}/content/assets/images/idea.png`
         },
         loadDefaultPages: true,
         postsPerPage: 5
