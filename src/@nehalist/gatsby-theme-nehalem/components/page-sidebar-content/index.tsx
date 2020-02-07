@@ -23,7 +23,7 @@ const PageSidebarContent: FunctionComponent = () => {
       posts: allMarkdownRemark(
         filter: { fileAbsolutePath: { regex: "/(posts)/.*\\\\.md$/" } }
         sort: { fields: frontmatter___created, order: DESC }
-        limit: 3
+        limit: 7
       ) {
         edges {
           node {

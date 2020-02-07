@@ -91,7 +91,7 @@ module.exports = {
           icon: `${__dirname}/content/assets/images/idea.png`
         },
         loadDefaultPages: true,
-        postsPerPage: 5
+        postsPerPage: 20
       }
     }
   ]

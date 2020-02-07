@@ -1,12 +1,12 @@
-- name: Daily Life
+- name: eMoney
   color: "#e6275a"
-  icon: ./assets/images/routine_tag.png
+  icon: ./assets/images/emoney_logo.png
   featured: true
-- name: Business
+- name: CREMA Factory
+  color: "#a9a6ab"
+  icon: ./assets/images/crema_logo.png
+  featured: true
+- name: ITAM Games
   color: "#a627e6"
-  icon: ./assets/images/business_tag.png
-  featured: true
-- name: Book
-  color: "#e69627"
-  icon: ./assets/images/book_tag.png
+  icon: ./assets/images/itam_logo.png
   featured: true
