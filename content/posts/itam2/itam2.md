@@ -17,7 +17,7 @@ updated: 2019-04-02
 
 - 게임별 랜딩페이지 최초 기획부터 런칭
 ![itam2_1](./itam2_1.png)
-(랜딩페이지 : [다크타운](https://darktown.itam.stor), [던전공주](https://dp.itam.games), [양파기사단](https://onionknights.itam.stor), [크립토피싱](https://cryptofishing.itam.store))
+(랜딩페이지 : <a href="https://darktown.itam.stor" target="_blank">다크타운</a>, [던전공주](https://dp.itam.games), [양파기사단](https://onionknights.itam.stor), [크립토피싱](https://cryptofishing.itam.store))
 
 ### 런칭 후 전환율 올리기
 
