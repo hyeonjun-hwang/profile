@@ -1,9 +1,9 @@
 ---
-title: "블록체인 게임 모바일 플랫폼 기획"
+title: "블록체인 모바일 게임 플랫폼 기획 담당"
 path: "/itam1"
 tags: ["ITAM Games"]
 featuredImage: "./itam1_0.png"
-excerpt: 안드로이드 모바일 앱(ITAM STORE) 및 SDK 기획 담당
+excerpt: 안드로이드 모바일 앱(ITAM STORE) 및 SDK 메인 기획 담당
 created: 2019-04-01
 updated: 2019-04-01
 ---

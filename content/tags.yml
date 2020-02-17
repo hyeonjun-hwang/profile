@@ -10,3 +10,7 @@
   color: "#a627e6"
   icon: ./assets/images/itam_logo.png
   featured: true
+- name: XAI Land
+  color: "#a627e6"
+  icon: ./assets/images/xai-land_logo.png
+  featured: true
