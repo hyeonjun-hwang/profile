@@ -4,8 +4,8 @@ path: "/itam5"
 tags: ["ITAM Games"]
 featuredImage: "./itam5_1.png"
 excerpt: 블록체인 게임 디지털자산 웹 거래소(NFT FARM) 초기 기획 부터 런칭
-created: 2019-04-05
-updated: 2019-04-05
+created: 2020-02-05
+updated: 2020-02-05
 ---
 
 블록체인 게임 디지털자산 웹 거래소(<a href="https://nft.farm" target="_blank">NFT FARM</a>) 초기 기획 부터 런칭

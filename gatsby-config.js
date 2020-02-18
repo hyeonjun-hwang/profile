@@ -4,11 +4,11 @@ module.exports = {
     siteUrl: `https://profile.perpling.com`,
     description: `안녕하세요. %TOPICS% 입니다.`,
     topics: [
-      `황현준`,
-      `HyeonJun Hwang`,
       `서비스 기획자`,
-      `포트폴리오`,
-      `기획 포트폴리오`
+      `황현준`,
+      `기획 포트폴리오`,
+      `HyeonJun Hwang`,
+      `포트폴리오`
     ],
     menu: [
       {
@@ -41,7 +41,7 @@ module.exports = {
         linkedin: `https://www.linkedin.com/in/hyeonjun-hwang-620151193`,
         instagram: ``,
         youtube: ``,
-        github: `https://github.com/hyeonjun-hwang/perpling`,
+        github: `https://github.com/hyeonjun-hwang`,
         twitch: ``
       }
     }

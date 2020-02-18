@@ -4,8 +4,8 @@ path: "/itam4"
 tags: ["ITAM Games"]
 featuredImage: "./itam4_1.png"
 excerpt: 블록체인 모바일 게임 플랫폼, 디지털자산 웹 거래소 등 모든 서비스 클라이언트 회원 통합 어드민 초기 기획
-created: 2019-04-04
-updated: 2019-04-04
+created: 2020-02-04
+updated: 2020-02-04
 ---
 
 ### 원활하지 못한 유저 관리

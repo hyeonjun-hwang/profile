@@ -4,8 +4,8 @@ path: "/crema1"
 tags: ["CREMA Factory"]
 featuredImage: "./crema1_3.png"
 excerpt: 약 200개 쇼핑몰 데이터를 활용하기 위한 운영팀 데이터센터 구축
-created: 2018-05-01
-updated: 2018-05-01
+created: 2018-12-01
+updated: 2018-12-01
 ---
 
 ### 운영에 필요한 데이터 분석 필요

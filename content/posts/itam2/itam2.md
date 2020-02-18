@@ -4,8 +4,8 @@ path: "/itam2"
 tags: ["ITAM Games"]
 featuredImage: "./itam2_3.png"
 excerpt: ITAM Store 이용 유도를 위한 게임 랜딩페이지 초기 기획 부터 런칭
-created: 2019-04-02
-updated: 2019-04-02
+created: 2020-02-02
+updated: 2020-02-02
 ---
 
 ### 본격 마케팅

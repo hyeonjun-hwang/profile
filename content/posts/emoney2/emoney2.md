@@ -4,8 +4,8 @@ path: "/emoney2"
 tags: ["eMoney"]
 featuredImage: "./crypto2.png"
 excerpt: 고객 설문 응답과 개인투자자 관심 트렌드 데이터를 분석하여 신규 서비스 기획
-created: 2016-11-03
-updated: 2016-11-03
+created: 2018-04-03
+updated: 2018-04-03
 ---
 
 ### 정보 비대칭 문제

@@ -4,8 +4,8 @@ path: "/emoney3"
 tags: ["eMoney"]
 featuredImage: "./emoney3_2.png"
 excerpt: 누락 고객없는 자동 DMS(Direct Message System)를 기획하고 운영
-created: 2016-11-02
-updated: 2016-11-02
+created: 2018-04-02
+updated: 2018-04-02
 ---
 
 ### 운영 리소스 손실
@@ -15,7 +15,7 @@ updated: 2016-11-02
 
 ### 어드민 기능 기획
 
-- 설정한 조건에 따라 메시지를 자동으로 발송하는 DMS 기획
+- 설정한 조건에 따라 메시지를 자동으로 발송하는 DMS(Direct Message System) 기획
 ![article1](./emoney3_1.png)
 
 ### 생산성 증가

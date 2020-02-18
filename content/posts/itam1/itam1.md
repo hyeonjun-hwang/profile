@@ -4,8 +4,8 @@ path: "/itam1"
 tags: ["ITAM Games"]
 featuredImage: "./itam1_0.png"
 excerpt: 안드로이드 모바일 앱(ITAM STORE) 및 SDK 메인 기획 담당
-created: 2019-04-01
-updated: 2019-04-01
+created: 2020-02-01
+updated: 2020-02-01
 ---
 
 ## 프로덕트 관리

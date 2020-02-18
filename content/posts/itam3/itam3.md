@@ -4,8 +4,8 @@ path: "/itam3"
 tags: ["ITAM Games"]
 featuredImage: "./itam3_1.png"
 excerpt: 암호화폐 리워드 앱 클라이언트 및 백오피스 초기 기획
-created: 2019-04-03
-updated: 2019-04-03
+created: 2020-02-03
+updated: 2020-02-03
 ---
 
 ### 고객님께 더 가까이

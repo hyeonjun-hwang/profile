@@ -4,8 +4,8 @@ path: "/emoney1"
 tags: ["eMoney"]
 featuredImage: "./article2.png"
 excerpt: 회사 대표 시그니처 기사광고를 동종업계 최초로 기획하고 효율을 분석
-created: 2016-11-01
-updated: 2016-11-01
+created: 2018-04-01
+updated: 2018-04-01
 ---
 
 ### 현저히 낮은 효율
