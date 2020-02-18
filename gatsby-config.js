@@ -51,11 +51,11 @@ module.exports = {
     {
       resolve: "gatsby-plugin-google-tagmanager",
       options: {
-        id: "GTM-ND5X5L5",
+        id: "GTM-579M2GV",
         includeInDevelopment: false,
         defaultDataLayer: { platform: "gatsby" },
-        gtmAuth: "u36f2lo0kChHWljWfl9X5Q",
-        gtmPreview: "env-5",
+        gtmAuth: "OcjoLKVKHEao1nLTocXYBg",
+        gtmPreview: "env-3",
         dataLayerName: "dataLayer",
       }
     },
@@ -66,7 +66,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-        trackingId: "UA-112409357-1",
+        trackingId: "UA-112409357-2",
       },
     },
 
@@ -82,8 +82,8 @@ module.exports = {
       options: {
         contentPath: `content`,
         manifest: {
-          name: `Perpling`,
-          short_name: `Perpling`,
+          name: `profile.perpling`,
+          short_name: `profile`,
           start_url: `/`,
           background_color: `#3a7bd5`,
           theme_color: `#3a7bd5`,
