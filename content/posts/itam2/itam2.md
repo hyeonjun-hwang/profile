@@ -8,7 +8,11 @@ created: 2020-02-02
 updated: 2020-02-02
 ---
 
-### 본격 마케팅
+ITAM Store 이용 유도를 위한 게임 랜딩페이지 초기 기획 부터 런칭
+
+-----
+
+### 본격 마케팅에 앞서
 
 - 신규 마케팅 집행에 따라 사용자가 매력을 느낄만한 요소 고민
 - 사용자가 접근하여 액션을 일으킬 수 있는 공간 필요
@@ -17,7 +21,7 @@ updated: 2020-02-02
 
 - 게임을 내세워 스토어 앱(ITAM Store) 다운로드를 유도
 ![itam2_1](./itam2_1.png)
-(랜딩페이지 : <a href="https://darktown.itam.store" target="_blank">다크타운</a>, <a href="https://dp.itam.games" target="_blank">던전공주</a>, <a href="https://onionknights.itam.stor" target="_blank">양파기사단</a>, <a href="https://cryptofishing.itam.store" target="_blank">크립토피싱</a>)
+(구현된 페이지 : <a href="https://darktown.itam.store" target="_blank">다크타운</a>, <a href="https://dp.itam.games" target="_blank">던전공주</a>, <a href="https://onionknights.itam.stor" target="_blank">양파기사단</a>, <a href="https://cryptofishing.itam.store" target="_blank">크립토피싱</a>)
 
 ### 혹시 전환율에 영향이?
 

@@ -33,7 +33,7 @@ module.exports = {
     search: true,
     author: {
       name: `황현준`,
-      description: `안녕하세요 IT 서비스 기획자 <strong>황현준</strong>입니다. 서비스 기획자로서 다양한 문제 해결 과정을 포트폴리오에 담았습니다.`
+      description: `안녕하세요 IT 서비스 기획자 <strong>황현준</strong>입니다. 다양한 프로젝트를 통한 문제 해결 과정을 포트폴리오에 담았습니다.`
       ,
       social: {
         facebook: `https://www.facebook.com/hyeonjun.hwang.3`,

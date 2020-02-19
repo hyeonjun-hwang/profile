@@ -3,10 +3,14 @@ title: "DMS 기획 및 운영"
 path: "/emoney3"
 tags: ["eMoney"]
 featuredImage: "./emoney3_2.png"
-excerpt: 누락 고객없는 자동 DMS(Direct Message System)를 기획하고 운영
+excerpt: 누락 없는 자동 DMS(Direct Message System)를 기획하고 운영
 created: 2018-04-02
 updated: 2018-04-02
 ---
+
+누락 없는 자동 DMS(Direct Message System)를 기획하고 운영
+
+-----
 
 ### 운영 리소스 손실
 
