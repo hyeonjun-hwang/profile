@@ -1,12 +1,10 @@
-# Nehalem Gatsby starter
+# 서비스 기획자 포트폴리오
 
 <p align="center">
     <img src="https://github.com/nehalist/gatsby-theme-nehalem/blob/master/theme/logo.png?raw=true">
 </p>
 
-> Check the [Demo](https://nehalem.netlify.com)!
-
-Starter for [`@nehalist/gatsby-theme-nehalem`](https://github.com/nehalist/gatsby-theme-nehalem).
+> Check the [protfolio](https://profile.perpling.com)!
 
 ## Features
 
