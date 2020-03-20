@@ -18,7 +18,7 @@
   },
   "dependencies": {
     "@nehalist/gatsby-theme-nehalem": "^1.0.7",
-    "gatsby": "^2.13.55",
+    "gatsby": "^2.20.2",
     "gatsby-plugin-advanced-sitemap": "^1.4.5",
     "gatsby-plugin-google-analytics": "^2.1.34",
     "gatsby-plugin-google-tagmanager": "^2.1.24",
